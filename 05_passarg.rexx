@@ -1,0 +1,3 @@
+/* REXX */
+PULL ARG
+SAY 'THE PARM PASSED TO ME IS : ' ARG(1)  
